@@ -1,0 +1,4 @@
+C:\Users\mkino\OneDrive\Pulpit\Studia\PI\C++\Visual Studio\PROJEKT\Sklep\Sklep\Debug\Sklep.vcxproj.AssemblyReference.cache
+C:\Users\mkino\OneDrive\Pulpit\Studia\PI\C++\Visual Studio\PROJEKT\Sklep\Sklep\Debug\Sklep.Wejscie.resources
+C:\Users\mkino\OneDrive\Pulpit\Studia\PI\C++\Visual Studio\PROJEKT\Sklep\Sklep\Debug\Sklep.vcxproj.GenerateResource.cache
+C:\Users\mkino\OneDrive\Pulpit\Studia\PI\C++\Visual Studio\PROJEKT\Sklep\Sklep\Debug\Sklep.Logowanie.resources
